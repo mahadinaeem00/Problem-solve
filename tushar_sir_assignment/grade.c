@@ -25,4 +25,7 @@ int main()
 
     else if(n>=0 && n<33)
        printf("He failed in the exam");
+
+   default
+       printf("Invaid input");
 }
